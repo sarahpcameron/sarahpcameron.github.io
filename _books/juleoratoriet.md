@@ -14,6 +14,6 @@ started: 2026-03
 released: 1984
 #stars: 5
 #goodreads_review: 6318556633
-status: Currently reading
+status: Reading
 ---
 
