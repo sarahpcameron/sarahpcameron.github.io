@@ -1,18 +1,15 @@
 ---
 layout: page
-title: bookshelf
+title: Bookshelf
 permalink: /books/
-nav: false
-collection: books
 ---
 
-## Books that I am reading, have read, or will read
-<h2>2026</h2>
+<h2>2026 Reading List</h2>
 
 <!-- 1. CURRENTLY READING -->
 <h3>Currently Reading</h3>
 <div class="row">
-  {% assign reading_books = site.books | where: "year", 2026 | where: "status", "reading" %}
+  {% assign reading_books = site.books | where: "year", 2026 | where: "state", "reading" %}
   {% for book in reading_books %}
     <div class="col-sm-4">
       <strong>{{ book.title }}</strong> by {{ book.author }}
@@ -24,10 +21,10 @@ collection: books
 
 <hr>
 
-<!-- 2. NEXT UP / TO READ -->
+<!-- 2. NEXT UP -->
 <h3>Up Next</h3>
 <div class="row">
-  {% assign to_read_books = site.books | where: "year", 2026 | where: "status", "to-read" %}
+  {% assign to_read_books = site.books | where: "year", 2026 | where: "state", "next" %}
   {% for book in to_read_books %}
     <div class="col-sm-4">
       <strong>{{ book.title }}</strong> by {{ book.author }}
@@ -42,7 +39,7 @@ collection: books
 <!-- 3. FINISHED -->
 <h3>Finished</h3>
 <div class="row">
-  {% assign finished_books = site.books | where: "year", 2026 | where: "status", "finished" %}
+  {% assign finished_books = site.books | where: "year", 2026 | where: "state", "finished" %}
   {% for book in finished_books %}
     <div class="col-sm-4">
       <strong>{{ book.title }}</strong> by {{ book.author }}
