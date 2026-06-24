@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='(https://www.hf.uio.no/iln/personer/vit/nordiske-sprak/midlertidig/sarahpc/)'>, University of Oslo</a>. 
+subtitle: <a href='(https://www.hf.uio.no/iln/personer/vit/nordiske-sprak/midlertidig/sarahpc/)'> University of Oslo</a>. 
 
 profile:
   align: right
@@ -27,3 +27,5 @@ latest_posts:
 ---
 I am a linguist based in Oslo, Norway, with research interests in morphosyntactic processing and the neurocognition of language, particularly in second language speakers. My doctoral dissertation, submitted at the University of Oslo in June 2026, investigated grammatical gender processing in L1 and L2 speakers of Norwegian using ERP methodology.
 Outside of academia, I enjoy singing, nature and good coffee.
+
+Contact: sarahpc@proton.me
