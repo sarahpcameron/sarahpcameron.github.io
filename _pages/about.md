@@ -25,4 +25,5 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! I'm a linguist located in Oslo, Norway. My main academic interests are morphosyntactic processing, particularly in L2 speakers, and in general most things connected to neurocognition and language. I submitted my doctoral dissertation on gender processing in L1 and L2 speakers of Norwegian in June, 2026. Outside of academia, I enjoy nature and music, among other things.
+I am a linguist based in Oslo, Norway, with research interests in morphosyntactic processing and the neurocognition of language, particularly in second language speakers. My doctoral dissertation, submitted at the University of Oslo in June 2026, investigated grammatical gender processing in L1 and L2 speakers of Norwegian using ERP methodology.
+Outside of academia, I enjoy singing, nature and good coffee.
