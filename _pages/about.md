@@ -29,6 +29,6 @@ I am a linguist based in Oslo, Norway, with research interests in morphosyntacti
 
 My background is in Scandinavian studies, Norwegian as a second language and linguistics from the University of Oslo. 
 
-When I'm not busy being fascinated by language- and brain related things, I enjoy reading, singing, and learning about nature.
+When I'm not busy being fascinated by language- and brain related things, I enjoy singing, hiking, and learning about nature. 
 
 Contact: sarahpc@proton.me
