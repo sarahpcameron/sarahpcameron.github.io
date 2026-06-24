@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: book-review
 title: Herscht 07769
 author: László Krasznahorkai
 cover: assets/img/book_covers/herscht.jpg
-state: next
-year: 2026
+status: unread
 ---
