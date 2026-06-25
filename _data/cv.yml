@@ -131,50 +131,37 @@ cv:
         end_date: 2025     
 
     Presentations:
-      - title: "Gender processing in native speakers and learners of Norwegian: a longitudinal ERP study"
-        authors:
-          - Sarah Cameron
+      - name: "Gender processing in native speakers and learners of Norwegian: a longitudinal ERP study"
         date: 2025
         summary: "Oral presentation, EuroSLA 2025"
 
-      - title: "ERPs reveal differential processing of three types of gender violations in Norwegian"
-        authors:
-          - Sarah Cameron
-          - Natalia Kartushina
-          - Björn Lundquist
-          - Sendy Caffarra
+      - name: "ERPs reveal differential processing of three types of gender violations in Norwegian"
         date: 2025
-        summary: "Poster presentation, AMLaP 2025"
+        summary: "Poster presentation, AMLaP 2025 (with N. Kartushina, B. Lundquist, S. Caffarra)"
 
-      - title: "Cognitive testing: When is it non-verbal?"
-        authors:
-          - Valantis Fyndanis
-          - Sarah Cameron
+      - name: "Processing of time reference in Norwegian: adverb placement makes a difference"
+        date: 2024
+        summary: "Poster presentation, AMLaP 2024 (with Q. Gardner, M. Chrisikopoulou, V. Fyndanis)"
+
+      - name: "Cognitive testing: When is it non-verbal?"
         date: 2019
-        summary: "Talk, Workshop on Visual Prompts and Visual Methods in Multilingualism Research"
+        summary: "Talk, Workshop on Visual Prompts and Visual Methods in Multilingualism Research (with V. Fyndanis)"
         
-    Skills:
-      - name: EEG/ERP
-        icon: fa-solid fa-brain
-        keywords: "Stimuli development, data collection, preprocessing, and analysis; ERPLAB; MATLAB"
-
-      - name: Statistical analysis
-        icon: fa-solid fa-chart-line
-        keywords: "R"
-
-      - name: Other tools
-        icon: fa-solid fa-toolbox
-        keywords: "PsychoPy, LaTeX, Zotero"
+   Skills:
+      - label: EEG/ERP
+        details: "Stimuli development, data collection, preprocessing, and analysis; ERPLAB; MATLAB"
+      - label: Statistical analysis
+        details: "R (linear mixed models, generalized additive models, signal detection theory)"
+      - label: Other tools
+        details: "PsychoPy, LaTeX, Zotero"
 
     Languages:
-      - name: Norwegian
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-      - name: Spanish
-        summary: "Intermediate"
+      - label: Norwegian
+        details: Native
+      - label: English
+        details: Fluent
+      - label: Spanish
+        details: Intermediate
 
     References:
       - name: Available upon request
