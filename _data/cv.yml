@@ -1,9 +1,7 @@
 cv:
   name: Sarah Cameron
-  label: Linguist
   email: sarah.cameron@iln.uio.no
   location: Oslo, Norway
-  summary: PhD candidate in linguistics at the University of Oslo, specialising in morphosyntactic processing and the neurocognition of language
 
   sections:
     Education:
@@ -96,6 +94,7 @@ cv:
 
     Teaching:
       - company: University of Oslo
+        position: guest lecturer
         location: Oslo, Norway
         start_date: 2024
         end_date: 2026
