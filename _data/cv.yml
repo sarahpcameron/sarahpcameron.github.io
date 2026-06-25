@@ -118,7 +118,7 @@ cv:
         highlights:
           - "Early childhood teacher education programme: Norwegian as a second language/bilingual children"
       
-    Service:
+      Service:
       - company: University of Oslo, Department of Linguistics and Scandinavian Studies
         position: Department Board Representative, Temporary Scientific Staff
         location: Oslo, Norway
@@ -131,7 +131,7 @@ cv:
         start_date: 2025
         end_date: 2025     
 
-    Presentations:
+      Presentations:
       - title: "Gender processing in native speakers and learners of Norwegian: a longitudinal ERP study"
         authors:
           - Sarah Cameron
@@ -154,7 +154,7 @@ cv:
         date: 2019
         summary: "Talk, Workshop on Visual Prompts and Visual Methods in Multilingualism Research"
         
-    Skills:
+      Skills:
       - name: EEG/ERP
         icon: fa-solid fa-brain
         keywords: "Stimuli development, data collection, preprocessing, and analysis; ERPLAB; MATLAB"
@@ -167,7 +167,7 @@ cv:
         icon: fa-solid fa-toolbox
         keywords: "PsychoPy, LaTeX, Zotero"
 
-    Languages:
+      Languages:
       - name: Norwegian
         summary: "Native speaker"
 
@@ -177,7 +177,7 @@ cv:
       - name: Spanish
         summary: "Intermediate"
 
-    References:
+      References:
       - name: Available upon request
         icon: fa-solid fa-envelope
      
