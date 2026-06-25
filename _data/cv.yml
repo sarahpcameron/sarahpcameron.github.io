@@ -3,15 +3,7 @@ cv:
   label: Linguist
   email: sarah.cameron@iln.uio.no
   location: Oslo, Norway
-  image: ""
-
-  address:
-    street: Tåsenveien 75D
-     postalCode: 0873
-    city: Oslo
-  
-   
-    countryCode: Norway
+  summary: PhD candidate in linguistics at the University of Oslo, specialising in morphosyntactic processing and the neurocognition of language
 
   sections:
         Education:
