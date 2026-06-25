@@ -147,7 +147,7 @@ cv:
         date: 2019
         summary: "Talk, Workshop on Visual Prompts and Visual Methods in Multilingualism Research (with V. Fyndanis)"
         
-   Skills:
+    Skills:
       - label: EEG/ERP
         details: "Stimuli development, data collection, preprocessing, and analysis; ERPLAB; MATLAB"
       - label: Statistical analysis
