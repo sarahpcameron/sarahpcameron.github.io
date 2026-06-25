@@ -6,7 +6,7 @@ cv:
   summary: PhD candidate in linguistics at the University of Oslo, specialising in morphosyntactic processing and the neurocognition of language
 
   sections:
-      Education:
+    Education:
       - institution: University of Oslo
         location: Oslo, Norway
         url: https://www.uio.no
@@ -36,7 +36,7 @@ cv:
         start_date: 2007
         end_date: 2010
         
-      Experience:
+    Experience:
       - company: University of Oslo, Department of Linguistics and Scandinavian Studies
         position: PhD Fellow
         location: Oslo, Norway
@@ -94,14 +94,13 @@ cv:
           - "With bilingual eyes: motion event conceptualization in Norwegian and Norwegian-English children"
           - "Eye-tracking data collection, coding, and transcription"
 
-      Teaching:
+    Teaching:
       - company: University of Oslo
-        #position: Guest Lecturer
         location: Oslo, Norway
         start_date: 2024
         end_date: 2026
         highlights:
-         - "LING1107 – Language acquisition: syntax and morphology (2024, 2025, 2026)"
+          - "LING1107 – Language acquisition: syntax and morphology (2024, 2025, 2026)"
 
       - company: OsloMet, Department of Early Childhood Education
         position: Assistant Professor (Universitetslektor)
@@ -109,7 +108,7 @@ cv:
         start_date: 2021-08
         end_date: 2021-11
         highlights:
-         - "BLH2100/BLA2200 – Language, Text and Mathematics: Children's culture; children's language development; bilingual children"
+          - "BLH2100/BLA2200 – Language, Text and Mathematics: Children's culture; children's language development; bilingual children"
 
       - company: Steinerhøgskolen
         position: Guest Lecturer
