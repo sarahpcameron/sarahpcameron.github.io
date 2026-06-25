@@ -147,21 +147,24 @@ cv:
         date: 2019
         summary: "Talk, Workshop on Visual Prompts and Visual Methods in Multilingualism Research (with V. Fyndanis)"
         
-    Skills:
-      - label: EEG/ERP
-        details: "Stimuli development, data collection, preprocessing, and analysis; ERPLAB; MATLAB"
-      - label: Statistical analysis
-        details: "R (linear mixed models, generalized additive models, signal detection theory)"
-      - label: Other tools
-        details: "PsychoPy, LaTeX, Zotero"
+   Skills:
+      - name: EEG/ERP
+        icon: fa-solid fa-brain
+        keywords: "Stimuli development, data collection, preprocessing, and analysis; ERPLAB; MATLAB"
+      - name: Statistical analysis
+        icon: fa-solid fa-chart-line
+        keywords: "R (linear mixed models, generalized additive models, signal detection theory)"
+      - name: Other tools
+        icon: fa-solid fa-toolbox
+        keywords: "PsychoPy, LaTeX, Zotero"
 
     Languages:
-      - label: Norwegian
-        details: Native
-      - label: English
-        details: Fluent
-      - label: Spanish
-        details: Intermediate
+      - name: Norwegian
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent"
+      - name: Spanish
+        summary: "Intermediate"
 
     References:
       - name: Available upon request
