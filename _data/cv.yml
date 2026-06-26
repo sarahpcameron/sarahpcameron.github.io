@@ -130,23 +130,6 @@ cv:
         start_date: 2025
         end_date: 2025
 
-    Presentations:
-      - name: "Gender processing in native speakers and learners of Norwegian: a longitudinal ERP study"
-        date: 2025
-        summary: "Oral presentation, EuroSLA 2025"
-
-      - name: "ERPs reveal differential processing of three types of gender violations in Norwegian"
-        date: 2025
-        summary: "Poster presentation, AMLaP 2025 (with N. Kartushina, B. Lundquist, S. Caffarra)"
-
-      - name: "Processing of time reference in Norwegian: adverb placement makes a difference"
-        date: 2024
-        summary: "Poster presentation, AMLaP 2024 (with Q. Gardner, M. Chrisikopoulou, V. Fyndanis)"
-
-      - name: "Cognitive testing: When is it non-verbal?"
-        date: 2019
-        summary: "Talk, Workshop on Visual Prompts and Visual Methods in Multilingualism Research (with V. Fyndanis)"
-
     Skills:
       - name: EEG/ERP
         icon: fa-solid fa-brain
