@@ -8,9 +8,15 @@ cv_pdf: /assets/rendercv_output/Sarah_Cameron_CV.pdf
 ---
 
 <div class="post-description">
-  <a href="{{ page.cv_pdf | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" role="button">Download PDF</a>
+  <a href="{{ page.cv_pdf | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary z-depth-1" role="button">⬇ Download CV (PDF)</a>
 </div>
 
+---
+# Sarah Cameron
+### Linguist | PhD Candidate, University of Oslo
+
+**Email:** sarah.cameron@iln.uio.no 
+**Website:** [sarahcameron.no](https://sarahcameron.no)  
 ---
 
 ## Education
@@ -30,38 +36,38 @@ cv_pdf: /assets/rendercv_output/Sarah_Cameron_CV.pdf
 
 **PhD Fellow** — University of Oslo, Department of Linguistics and Scandinavian Studies, 2021–2026
 
-**Researcher** — MultiLing, University of Oslo, 2021
-- Scoping review of studies on ADHD and bilingualism (PI: Franziska Köder)
-- Systematic literature review and co-authoring of paper
+**Research Assistant** — MultiLing, University of Oslo, 2021
+  *Scoping review of studies on ADHD and bilingualism*
+  - Systematic literature review
 
 **Research Assistant** — NTNU/University of Oslo, 2021
-- Technology-enhanced foreign and second-language learning of Nordic languages (TEFLON; PI: Minna Lehtonen)
-- Developing stimuli and recruiting participants
+  *Technology-enhanced foreign and second-language learning of Nordic languages (TEFLON)*
+  - Stimuli development (word elicitation task)
 
-**Research Technician** — MultiLing, University of Oslo, 2020–2021
-- Morphosyntactic processing in healthy adults and persons with aphasia (PI: Valantis Fyndanis)
-- Development of stimuli, EEG data collection and analysis
+**Research Assistant** — MultiLing, University of Oslo, 2020–2021
+  *Time-reference processing in healthy adult L1-speakers of Norwegian*
+  - Stimuli development, EEG data collection and analysis
 
 **Research Assistant** — MultiLing, University of Oslo, 2019
-- MultiLing aphasia project and meta-analysis (PI: Minna Lehtonen)
-- EEG data collection with healthy adults and people with aphasia
+  *Studies of Multilingual Aphasia*
+  - Stimuli development, EEG data collection with healthy adults and people with aphasia
 
 **Research Assistant** — MultiLing, University of Oslo, 2018–2021
-- With bilingual eyes: motion event conceptualization in Norwegian and Norwegian-English children (PI: Hanna Solberg Andresen)
-- Eye-tracking data collection, coding, and transcription
+  *With bilingual eyes: motion event conceptualization in Norwegian and Norwegian-English children*
+  - Eye-tracking data collection, coding, and transcription
 
 ---
 
 ## Teaching
 
-**Guest Lecturer** — University of Oslo, 2024–2026
-- LING1107 – Language Acquisition: syntax and morphology (2024, 2025, 2026)
+ University of Oslo, 2024–2026
+- LING1107 – *Language Acquisition*: syntax and morphology (2024, 2025, 2026)
 
-**Assistant Professor (Universitetslektor)** — OsloMet, Department of Early Childhood Education, Aug–Nov 2021
-- BLH2100/BLA2200 – Language, Text and Mathematics: children's culture; children's language development; bilingual children
+ OsloMet, Department of Early Childhood Education, Aug–Nov 2021
+- BLH2100/BLA2200 – *Language, Text and Mathematics*: children's culture; children's language development; bilingual children
 
-**Guest Lecturer** — Steinerhøgskolen, 2021
-- Early childhood teacher education programme: Norwegian as a second language/bilingual children
+Steinerhøyskolen, 2021
+- Early childhood teacher education programme: Norwegian as a second language/bilingualism
 
 ---
 
@@ -97,25 +103,15 @@ Cameron, S. (2025). Gender processing in native speakers and learners of Norwegi
 
 Cameron, S., Kartushina, N., Lundquist, B., & Caffarra, S. (2025). ERPs reveal differential processing of three types of gender violations in Norwegian. Poster presentation at AMLaP 2025.
 
-Cameron, S., Gardner, Q., Chrisikopoulou, M., & Fyndanis, V. (2024). Processing of time reference in Norwegian: adverb placement makes a difference. Poster presentation at AMLaP 2024.
-
 Fyndanis, V., & Cameron, S. (2019). Cognitive testing: When is it non-verbal? Talk presented at the Workshop on Visual Prompts and Visual Methods in Multilingualism Research, MultiLing, University of Oslo.
-
----
-
-## Skills
-
-- **EEG/ERP:** Stimuli development, data collection, preprocessing, and analysis; ERPLAB; MATLAB
-- **Statistical analysis:** R (linear mixed models, generalized additive models, signal detection theory)
-- **Other tools:** PsychoPy, LaTeX, Zotero
 
 ---
 
 ## Languages
 
 - Norwegian (native)
-- English (fluent)
-- Spanish (intermediate)
+- English (near-native)
+- Spanish (proficient)
 
 ---
 
