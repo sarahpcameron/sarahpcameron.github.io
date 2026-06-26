@@ -1,6 +1,6 @@
 cv:
   name: Sarah Cameron
-  email: sarah.cameron@iln.uio.no
+  email: sarahpc@proton.me
   location: Oslo, Norway
 
   sections:
@@ -33,7 +33,7 @@ cv:
         studyType: BA
         start_date: 2007
         end_date: 2010
-        
+
     Experience:
       - company: University of Oslo, Department of Linguistics and Scandinavian Studies
         position: PhD Fellow
@@ -71,7 +71,7 @@ cv:
         start_date: 2020
         end_date: 2021
         highlights:
-          - "MachineLearning Aphasia project"
+          - "Machine Learning Aphasia project"
           - "Development of stimuli, EEG data collection and analysis"
 
       - company: MultiLing, University of Oslo
@@ -94,12 +94,12 @@ cv:
 
     Teaching:
       - company: University of Oslo
-        position: guest lecturer
+        position: Guest Lecturer
         location: Oslo, Norway
         start_date: 2024
         end_date: 2026
         highlights:
-          - "LING1107 – Language acquisition: syntax and morphology (2024, 2025, 2026)"
+          - "LING1107 - Language acquisition: syntax and morphology (2024, 2025, 2026)"
 
       - company: OsloMet, Department of Early Childhood Education
         position: Assistant Professor (Universitetslektor)
@@ -107,7 +107,7 @@ cv:
         start_date: 2021-08
         end_date: 2021-11
         highlights:
-          - "BLH2100/BLA2200 – Language, Text and Mathematics: Children's culture; children's language development; bilingual children"
+          - "BLH2100/BLA2200 - Language, Text and Mathematics: Children's culture; children's language development; bilingual children"
 
       - company: Steinerhøgskolen
         position: Guest Lecturer
@@ -116,57 +116,7 @@ cv:
         end_date: 2021
         highlights:
           - "Early childhood teacher education programme: Norwegian as a second language/bilingual children"
-      
+
     Service:
       - company: University of Oslo, Department of Linguistics and Scandinavian Studies
-        position: Department Board Representative, Temporary Scientific Staff
-        location: Oslo, Norway
-        start_date: 2022
-        end_date: 2022
-
-      - company: University of Oslo, Department of Linguistics and Scandinavian Studies
-        position: Department Board Representative (Deputy), Temporary Scientific Staff
-        location: Oslo, Norway
-        start_date: 2025
-        end_date: 2025     
-
-    Presentations:
-      - name: "Gender processing in native speakers and learners of Norwegian: a longitudinal ERP study"
-        date: 2025
-        summary: "Oral presentation, EuroSLA 2025"
-
-      - name: "ERPs reveal differential processing of three types of gender violations in Norwegian"
-        date: 2025
-        summary: "Poster presentation, AMLaP 2025 (with N. Kartushina, B. Lundquist, S. Caffarra)"
-
-      - name: "Processing of time reference in Norwegian: adverb placement makes a difference"
-        date: 2024
-        summary: "Poster presentation, AMLaP 2024 (with Q. Gardner, M. Chrisikopoulou, V. Fyndanis)"
-
-      - name: "Cognitive testing: When is it non-verbal?"
-        date: 2019
-        summary: "Talk, Workshop on Visual Prompts and Visual Methods in Multilingualism Research (with V. Fyndanis)"
-        
-   Skills:
-      - name: EEG/ERP
-        icon: fa-solid fa-brain
-        keywords: "Stimuli development, data collection, preprocessing, and analysis; ERPLAB; MATLAB"
-      - name: Statistical analysis
-        icon: fa-solid fa-chart-line
-        keywords: "R (linear mixed models, generalized additive models, signal detection theory)"
-      - name: Other tools
-        icon: fa-solid fa-toolbox
-        keywords: "PsychoPy, LaTeX, Zotero"
-
-    Languages:
-      - name: Norwegian
-        summary: "Native speaker"
-      - name: English
-        summary: "Fluent"
-      - name: Spanish
-        summary: "Intermediate"
-
-    References:
-      - name: Available upon request
-        icon: fa-solid fa-envelope
-     
+        position: Department Board Representative,
