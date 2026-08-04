@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.hf.uio.no/iln/personer/vit/nordiske-sprak/midlertidig/sarahpc/'> University of Oslo</a>. 
+subtitle: <a href='https://www.hf.uio.no/iln/english/people/aca/scandinavian-languages/temporary/sarahpc/index.html'> University of Oslo</a>. 
 
 profile:
   align: right
